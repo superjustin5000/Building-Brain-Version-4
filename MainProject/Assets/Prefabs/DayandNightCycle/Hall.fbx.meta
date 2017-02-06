@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 1be2c7d9e717a5e4793896b277794c8c
+timeCreated: 1455309406
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CTRL_Baseboard
+    100002: CTRL_Baseboard.001
+    100004: CTRL_Hole
+    100006: CTRL_Hole.001
+    100008: Cube
+    100010: Door
+    100012: Door.001
+    100014: Door_Group
+    100016: Door_Group.001
+    100018: DoorFrame
+    100020: DoorFrame.001
+    100022: //RootNode
+    100024: Handle_Back
+    100026: Handle_Back.001
+    100028: Handle_Front
+    100030: Handle_Front.001
+    400000: CTRL_Baseboard
+    400002: CTRL_Baseboard.001
+    400004: CTRL_Hole
+    400006: CTRL_Hole.001
+    400008: Cube
+    400010: Door
+    400012: Door.001
+    400014: Door_Group
+    400016: Door_Group.001
+    400018: DoorFrame
+    400020: DoorFrame.001
+    400022: //RootNode
+    400024: Handle_Back
+    400026: Handle_Back.001
+    400028: Handle_Front
+    400030: Handle_Front.001
+    2300000: CTRL_Baseboard
+    2300002: CTRL_Baseboard.001
+    2300004: CTRL_Hole
+    2300006: CTRL_Hole.001
+    2300008: Cube
+    2300010: Door
+    2300012: Door.001
+    2300014: DoorFrame
+    2300016: DoorFrame.001
+    2300018: Handle_Back
+    2300020: Handle_Back.001
+    2300022: Handle_Front
+    2300024: Handle_Front.001
+    3300000: CTRL_Baseboard
+    3300002: CTRL_Baseboard.001
+    3300004: CTRL_Hole
+    3300006: CTRL_Hole.001
+    3300008: Cube
+    3300010: Door
+    3300012: Door.001
+    3300014: DoorFrame
+    3300016: DoorFrame.001
+    3300018: Handle_Back
+    3300020: Handle_Back.001
+    3300022: Handle_Front
+    3300024: Handle_Front.001
+    4300000: CTRL_Baseboard.001
+    4300002: CTRL_Hole.001
+    4300004: DoorFrame.001
+    4300006: Door.001
+    4300008: Handle_Back.001
+    4300010: Handle_Front.001
+    4300012: CTRL_Baseboard
+    4300014: CTRL_Hole
+    4300016: DoorFrame
+    4300018: Door
+    4300020: Handle_Back
+    4300022: Handle_Front
+    4300024: Cube
+    6400000: CTRL_Baseboard
+    6400002: CTRL_Baseboard.001
+    6400004: CTRL_Hole
+    6400006: CTRL_Hole.001
+    6400008: Cube
+    6400010: Door
+    6400012: Door.001
+    6400014: DoorFrame
+    6400016: DoorFrame.001
+    6400018: Handle_Back
+    6400020: Handle_Back.001
+    6400022: Handle_Front
+    6400024: Handle_Front.001
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
